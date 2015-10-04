@@ -14,6 +14,7 @@ Building
 --------
 
 To build the programs run:
+
 	cmake .
 	make
 
